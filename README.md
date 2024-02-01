@@ -1,4 +1,4 @@
-# SIGHT: The Color Dectection and Colorblind support program for Images
+# SIGHT: The Color Detection and Colorblind support program for Images
  > Author: [Byron Rios](https://github.com/br26244)
 
 ## Project Description
